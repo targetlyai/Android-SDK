@@ -1,0 +1,3 @@
+include ':Targetly'
+include ':app'
+rootProject.name = "TargetlyExample"
